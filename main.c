@@ -11,5 +11,5 @@ int main(int argc, char *argv[]) {
 	scanf("%d",&EnglishGrade);
 	AverageValue=(MathGrade+EnglishGrade)/2;
 	printf("AverageValue=%d",AverageValue);
-	return 0;
+
 }
